@@ -121,8 +121,8 @@ export function Contact() {
               
               <div>
                 <label htmlFor="service" className="sr-only">Servicio de Interés</label>
-                <select id="service" required className="input-field appearance-none bg-brand-darker">
-                  <option value="" disabled selected hidden>Selecciona un servicio</option>
+                <select id="service" required defaultValue="" className="input-field appearance-none bg-brand-darker">
+                  <option value="" disabled hidden>Selecciona un servicio</option>
                   <option value="cctv">Cámaras de Seguridad (CCTV)</option>
                   <option value="alarms">Sistemas de Alarmas</option>
                   <option value="gates">Portones Eléctricos</option>
