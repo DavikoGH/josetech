@@ -1,0 +1,6 @@
+{
+  "name": "JoseTech - Instalación Profesional",
+  "description": "Página profesional de servicios de instalación de cámaras de seguridad, alarmas y portones eléctricos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
