@@ -46,7 +46,7 @@ export function Hero() {
       <div className="absolute inset-0 z-0">
         <img 
           src={heroImage} 
-          alt="Daviko Durán Profesional" 
+          alt="Daviko Técnico Profesional" 
           className="w-full h-full object-cover object-top filter brightness-75"
         />
         {/* Gradient overlays to ensure text readability across the entire scroll */}
@@ -65,7 +65,7 @@ export function Hero() {
               Instalación Profesional
             </h2>
             <h1 className="font-display font-bold text-5xl md:text-7xl lg:text-8xl mb-2 text-white drop-shadow-lg">
-              Daviko Durán
+              Daviko Técnico
             </h1>
             
             <div className="h-12 md:h-16 mt-4 mb-6 flex items-center justify-center">

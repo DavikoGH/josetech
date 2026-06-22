@@ -37,7 +37,7 @@ export function Loader() {
             transition={{ delay: 0.3 }}
             className="mt-6 font-display font-bold tracking-[0.3em] text-white/80"
           >
-            JOSE<span className="text-brand-blue">TECH</span>
+            DAVIKO<span className="text-brand-blue">TECH</span>
           </motion.div>
 
           <div className="w-48 h-1 bg-white/10 rounded-full mt-6 overflow-hidden">

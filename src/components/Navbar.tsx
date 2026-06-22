@@ -35,7 +35,7 @@ export function Navbar() {
             className="flex items-center gap-2"
           >
             <ShieldCheck className="text-brand-blue w-8 h-8" />
-            <span className="font-display font-bold text-xl tracking-wider">JOSE<span className="text-brand-blue">TECH</span></span>
+            <span className="font-display font-bold text-xl tracking-wider">DAVIKO<span className="text-brand-blue">TECH</span></span>
           </motion.div>
 
           {/* Desktop Nav */}

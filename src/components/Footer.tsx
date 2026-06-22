@@ -13,7 +13,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-6">
               <ShieldCheck className="text-brand-blue w-8 h-8" />
-              <span className="font-display font-bold text-xl tracking-wider">JOSE<span className="text-brand-blue">TECH</span></span>
+              <span className="font-display font-bold text-xl tracking-wider">DAVIKO<span className="text-brand-blue">TECH</span></span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed max-w-sm">
               Especialistas en seguridad electrónica e instalación profesional. Protegiendo tu tranquilidad con tecnología de vanguardia y servicio técnico garantizado.
@@ -44,7 +44,7 @@ export function Footer() {
 
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-xs tracking-wider mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} JOSETECH - DAVIKO DURÁN. Todos los derechos reservados.
+            &copy; {new Date().getFullYear()} DAVIKOTECH - DAVIKO TÉCNCO. Todos los derechos reservados.
           </p>
           
           <button 
